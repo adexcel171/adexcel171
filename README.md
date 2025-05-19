@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer ( Mern Stack)
+Full Stack Web Developer
 
 
 ## 🌐 Socials:
